@@ -1,12 +1,12 @@
-#         WRANGLING AND CLEANING OF FIFA 2021 DATASET
+#         BIG DIRTY DATA AND CLEANING OF FIFA 2021 DATASET
 
 ![image](https://github.com/dannieRope/WRANGLING-AND-CLEANING-OF-FIFA-2021-DATASET/assets/132214828/421e5e4f-3384-48a6-87b2-857aeba77717)
 
-Before you can analyse any type of data, it's important to ensure that the data is in good shape (clean) and ready for the intended analysis.
+Before you can analyze any type of data, it's important to ensure that the data is in good shape (clean) and ready for the intended analysis.
 
-So, what exactly is a clean data? 
+So, what exactly is clean data? 
 
-A clean data refers to a dataset that has been processed to be free of missing values, inaccuracies, duplicates, errors, misspellings, null entries, outliers, and more.
+Clean data refers to a dataset that has been processed to be free of missing values, inaccuracies, duplicates, errors, misspellings, null entries, outliers, and more.
 
 Having the skill to clean and prepare data is essential for anyone aspiring to be a proficient analyst.
 
@@ -386,7 +386,7 @@ The image below is the preview of the clean data ready for further analysis.
 
 ![Clean](https://github.com/dannieRope/WRANGLING-AND-CLEANING-OF-FIFA-2021-DATASET/assets/132214828/90737891-a74e-4094-a75e-5e2d4abacb2f)
 
-You can also access the clean data [here](https://github.com/dannieRope/WRANGLING-AND-CLEANING-OF-FIFA-2021-DATASET/blob/main/Fifa21_Clean.xlsx)
+You can also access the clean data [here]()
 
 
  ## CONCLUSION 
